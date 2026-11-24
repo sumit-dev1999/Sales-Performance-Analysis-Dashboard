@@ -5,7 +5,6 @@
 | Field | Details |
 |---|---|
 | Project Name | Sales Performance Analysis - October 2026 |
-| Project Number  | 03 |
 | Project Type | Data Analytics |
 | Tool | Microsoft Excel |
 | Data Period | October 2026 |
